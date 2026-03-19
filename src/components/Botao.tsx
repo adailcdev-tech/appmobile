@@ -18,10 +18,6 @@ const styles = StyleSheet.create({
         color: "#fff",
         textAlign: "center",
     },
-    label: {
-        color:"#9b0c0c",
-        fontSize: 16,
-    },
 })
 
     export default Botao
